@@ -1,0 +1,17 @@
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\bin\Release\OrderObj.exe
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\bin\Release\OrderObj.pdb
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Release\OrderObj.Form1.resources
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Release\OrderObj.FormEditOrder.resources
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Release\OrderObj.Properties.Resources.resources
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Release\OrderObj.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Release\OrderObj.exe
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Release\OrderObj.pdb
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.exe
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.pdb
+E:\Order\OrderObj\OrderObj\bin\Release\OrderObj.exe
+E:\Order\OrderObj\OrderObj\bin\Release\OrderObj.pdb
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.csprojResolveAssemblyReference.cache
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.Form1.resources
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.FormEditOrder.resources
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.Properties.Resources.resources
+E:\Order\OrderObj\OrderObj\obj\Release\OrderObj.csproj.GenerateResource.Cache

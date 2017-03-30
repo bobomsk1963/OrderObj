@@ -1,0 +1,8 @@
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\bin\Debug\OrderObj.exe
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\bin\Debug\OrderObj.pdb
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Debug\OrderObj.Form1.resources
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Debug\OrderObj.FormEditOrder.resources
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Debug\OrderObj.Properties.Resources.resources
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Debug\OrderObj.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Debug\OrderObj.exe
+C:\C#_Программы_Разработка\2015\Order\OrderObj\OrderObj\obj\Debug\OrderObj.pdb
